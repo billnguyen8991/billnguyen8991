@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋! Welcome to my Github
+
+I am Bill - a **Data enthusiast** and **Analyst**
+
+I am currently work as Customer Service Consultant at [Hai Ha Money Transfer](https://www.hhmt.com.au/) with a passion of using data to solve business problems an
 
 <!--
 **billnguyen8991/billnguyen8991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
